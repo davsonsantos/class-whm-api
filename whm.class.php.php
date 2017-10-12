@@ -10,9 +10,9 @@
 class Whm{
 
 	var $controller = true;
-	var $host = "davsonsantos.com.br";//null;
-	var $user = "davsonsa"; //null;
-	var $accessHash = "O2T9IJ3MQXNGPBNBRZO9QY60JSZ8M515";//null;
+	var $host = "seudominio.com.br";//null;
+	var $user = "username"; //null;
+	var $accessHash = "JFSKLDFOIWEFUWEIOFOIFOWIWIYCU548";//null;
 	var $errors = array();
 	var $fp = null;
 
